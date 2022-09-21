@@ -1,2 +1,0 @@
-x = "sudha"
-print(x)

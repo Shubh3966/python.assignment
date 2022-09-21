@@ -1,1 +1,2 @@
-print("\"MySirG\"")
+import keyword
+print(keyword.kwlist)
